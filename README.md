@@ -5,4 +5,5 @@ Verkefnið snýst um það að gera síðu handa tónlistamönnum. Vefsíðan á
 # <img src="https://github.com/Vef2-musc/Lysing-Verkefnis/blob/main/myndir/mynd%201.jpg" alt="wireframe phone fannsi 1" width="200"/>
 ## Eitt af fyrstu Desktop viewmodel wireframes sem við settum á blað sem sínir grunnhugmydnir fyrir verkefnið
 # <img src="https://github.com/Vef2-musc/Lysing-Verkefnis/blob/main/myndir/mynd%202.jpg" alt="wireframe  desktop fannsi 1" width="200"/>
+## Önnur prototype fyrir síma design sem sínir aðeins meiri þróun á hugmyndini og örvar sem benda á virkni taka eða drop-down menu
 # <img src="https://github.com/Vef2-musc/Lysing-Verkefnis/blob/main/myndir/IMG_4967.jpg" alt="wireframe  Phone Ágúst" width="200"/>
